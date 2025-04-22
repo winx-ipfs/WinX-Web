@@ -121,7 +121,7 @@ export default function HomePage() {
       <header className="sticky top-0 z-50 w-full border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
         <div className="container px-4 sm:px-6 lg:px-8 mx-auto flex h-16 items-center justify-between">
           <div className="flex items-center gap-3">
-            <Image src="/winx.png" alt="Winx Logo" width={36} height={36} className="h-8 w-8 sm:h-9 sm:w-9" />
+            <Image src="winx.png" alt="Winx Logo" width={36} height={36} className="h-8 w-8 sm:h-9 sm:w-9" />
             <span className="text-lg sm:text-xl font-bold whitespace-nowrap">{siteConfig.name}</span>
           </div>
 
@@ -471,7 +471,7 @@ export default function HomePage() {
         <div className="container px-4 sm:px-6 lg:px-8 mx-auto flex flex-col md:flex-row items-center justify-between py-10 md:h-24">
           <div className="flex flex-col items-center md:items-start gap-2 mb-4 md:mb-0">
             <div className="flex items-center gap-2">
-              <Image src="/winx.png" alt="Winx Logo" width={24} height={24} className="h-6 w-6" />
+              <Image src="winx.png" alt="Winx Logo" width={24} height={24} className="h-6 w-6" />
               <span className="font-semibold">
                 {siteConfig.name} © {new Date().getFullYear()}
               </span>
