@@ -9,7 +9,7 @@ export const metadata = {
   title: "星萤无垠 - 开源团队",
   description: "Winx 星萤无垠是一支充满热情的开源团队，致力于开发实用工具和服务，让技术更加便捷可及。",
   icons: {
-    icon: "/winx.svg",
+    icon: "winx.svg",
   },
 }
 
