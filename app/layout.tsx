@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "星萤无垠（WinX）| 开源团队 ",
   description: "我们是一支充满热情的开源团队，致力于开发实用工具和服务，让技术更加便捷可及。",
-  keywords: ["WinX", "winx", "星萤无垠", "开源团队", "Windows镜像站" , "windows" , "Windows 11" , "Windows 10" ,"IPFS下载工具", "Crust Network" , "开源精神", "GitHub", "IPFS镜像站"],
+  keywords: ["WinX", "winx", "星萤无垠", "开源团队", "Windows镜像站" , "windows" , "Windows 11" , "Windows 10" ,"IPFS下载工具", "Crust Network" , "GitHub", "IPFS镜像站"],
   openGraph: {
     title: "星萤无垠 | 开源团队",
     description: "我们是一支充满热情的开源团队，致力于开发实用工具和服务，让技术更加便捷可及。",
