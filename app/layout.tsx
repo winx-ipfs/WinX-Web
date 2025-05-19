@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     description: "我们是一支充满热情的开源团队，致力于开发实用工具和服务，让技术更加便捷可及。",
     url: "https://www.winx.run",
     siteName: "星萤无垠",
-    images: [{ url: "/winx.png" }],
+    images: [{ url: "https://www.winx.run/winx.png" }],
     locale: "zh_CN",
     type: "website",
   },
@@ -22,7 +22,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "星萤无垠 | 开源团队",
     description: "我们是一支充满热情的开源团队，致力于开发实用工具和服务，让技术更加便捷可及。",
-    images: ["/winx.png"],
+    images: ["https://www.winx.run/winx.png"],
   },
   icons: {
     icon: "winx.svg",
